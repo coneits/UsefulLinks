@@ -6,3 +6,5 @@ www.upwork.com
 www.freelancer.com
 
 https://www.w3schools.com/SQL/sql_like.asp
+
+http://php.net/manual/en/function.mysql-query.php
